@@ -1,0 +1,25 @@
+{
+  "name": "NusaTech - PT NusaTech Digital Indonesia",
+  "short_name": "NusaTech",
+  "description": "Sistem Manajemen Aset & Sarana Prasarana PT NusaTech Digital Indonesia",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0f172a",
+  "theme_color": "#1e3a8a",
+  "icons": [
+    {
+      "src": "icons/ntlogo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/ntlogo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
