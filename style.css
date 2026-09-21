@@ -209,7 +209,7 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  background: #090d16 url('https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?auto=format&fit=crop&w=1000&q=80') center/cover no-repeat;
+  background: #090d16 url('icons/intro.jpg') center/cover no-repeat;
 }
 
 .gate-hero { padding: 24px 20px; display: flex; justify-content: flex-end; }

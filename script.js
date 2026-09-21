@@ -39,7 +39,7 @@ const i18nDictionary = {
     login: "Masuk",
     register: "Daftar",
     or: "atau",
-    guestMode: "Mode Tamu (Eksplorasi Sementara)",
+    guestMode: "Mode Tamu",
     gateTitle: "NusaTech",
     gateSubtitle: "Sistem Manajemen Aset & Inventaris Terpadu",
     scanTitle: "Pindai QR / Barcode",
